@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConsultarNfseEnvio xmlns="http://www.ginfes.com.br/servico_consultar_nfse_envio_v03.xsd">
+  <Prestador>
+    <CpfCnpj>
+      <Cnpj>102938475600019</Cnpj>
+    </CpfCnpj>
+    <InscricaoMunicipal>887766</InscricaoMunicipal>
+  </Prestador>
+  <ParametrosBusca>
+    <NumeroNfse>1500</NumeroNfse>
+    <CodigoVerificacao>ABC123</CodigoVerificacao>
+    <PeriodoEmissao>
+      <DataInicial>2025-10-01</DataInicial>
+      <DataFinal>2025-10-29</DataFinal>
+    </PeriodoEmissao>
+    <Tomador>
+      <CpfCnpj>
+        <Cnpj>123123123000199</Cnpj>
+      </CpfCnpj>
+    </Tomador>
+  </ParametrosBusca>
+  <IntermediarioServico>
+    <CpfCnpj>
+      <Cnpj>01234567000122</Cnpj>
+    </CpfCnpj>
+    <InscricaoMunicipal>445566</InscricaoMunicipal>
+  </IntermediarioServico>
+</ConsultarNfseEnvio>

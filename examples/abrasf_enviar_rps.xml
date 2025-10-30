@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnviarRpsXml xmlns="http://www.abrasf.org.br/nfse.xsd">
+  <IdentificacaoRps>
+    <Numero>500</Numero>
+    <Serie>ABR</Serie>
+    <Tipo>1</Tipo>
+  </IdentificacaoRps>
+  <DataEmissao>2025-10-29</DataEmissao>
+  <NaturezaOperacao>1</NaturezaOperacao>
+  <RegimeEspecialTributacao>6</RegimeEspecialTributacao>
+  <OptanteSimplesNacional>1</OptanteSimplesNacional>
+  <IncentivoFiscal>2</IncentivoFiscal>
+  <Status>1</Status>
+  <Servico>
+    <Valores>
+      <ValorServicos>950.00</ValorServicos>
+      <ValorIss>38.00</ValorIss>
+      <ValorLiquidoNfse>912.00</ValorLiquidoNfse>
+      <Aliquota>0.0400</Aliquota>
+    </Valores>
+    <ItemListaServico>14.01</ItemListaServico>
+    <CodigoTributacaoMunicipio>1401</CodigoTributacaoMunicipio>
+    <Discriminacao>Consultoria tributária municipal</Discriminacao>
+    <CodigoMunicipio>3550308</CodigoMunicipio>
+  </Servico>
+  <Prestador>
+    <CpfCnpj>
+      <Cnpj>99887766000100</Cnpj>
+    </CpfCnpj>
+    <InscricaoMunicipal>554433</InscricaoMunicipal>
+  </Prestador>
+  <Tomador>
+    <IdentificacaoTomador>
+      <CpfCnpj>
+        <Cpf>12345678901</Cpf>
+      </CpfCnpj>
+    </IdentificacaoTomador>
+    <RazaoSocial>Cliente ABRASF</RazaoSocial>
+    <Endereco>
+      <Endereco>Rua das Flores</Endereco>
+      <Numero>321</Numero>
+      <Bairro>Centro</Bairro>
+      <CodigoMunicipio>3550308</CodigoMunicipio>
+      <Uf>SP</Uf>
+      <Cep>01000000</Cep>
+    </Endereco>
+    <Contato>
+      <Telefone>11999990000</Telefone>
+      <Email>cliente@abrasf.com</Email>
+    </Contato>
+  </Tomador>
+</EnviarRpsXml>

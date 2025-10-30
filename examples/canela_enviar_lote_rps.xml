@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EnviarLoteRpsEnvio xmlns="http://www.abrasf.org.br/nfse.xsd" versao="2.04">
+  <LoteRps Id="Lote2025">
+    <NumeroLote>20251029</NumeroLote>
+    <Cnpj>12345678000199</Cnpj>
+    <InscricaoMunicipal>123456</InscricaoMunicipal>
+    <QuantidadeRps>1</QuantidadeRps>
+    <ListaRps>
+      <Rps>
+        <IdentificacaoRps>
+          <Numero>1</Numero>
+          <Serie>CAN</Serie>
+          <Tipo>1</Tipo>
+        </IdentificacaoRps>
+        <DataEmissao>2025-10-29</DataEmissao>
+        <NaturezaOperacao>1</NaturezaOperacao>
+        <RegimeEspecialTributacao>1</RegimeEspecialTributacao>
+        <OptanteSimplesNacional>2</OptanteSimplesNacional>
+        <IncentivoFiscal>2</IncentivoFiscal>
+        <Status>1</Status>
+        <Servico>
+          <Valores>
+            <ValorServicos>250.00</ValorServicos>
+            <ValorIss>10.00</ValorIss>
+            <ValorPis>0.00</ValorPis>
+            <ValorCofins>0.00</ValorCofins>
+            <Aliquota>0.0400</Aliquota>
+          </Valores>
+          <IssRetido>2</IssRetido>
+          <ItemListaServico>07.02</ItemListaServico>
+          <CodigoMunicipio>4304606</CodigoMunicipio>
+          <Discriminacao>Serviços de hospedagem em Canela/RS</Discriminacao>
+          <CodigoCnae>5510802</CodigoCnae>
+          <CodigoTributacaoMunicipio>702</CodigoTributacaoMunicipio>
+        </Servico>
+        <Prestador>
+          <CpfCnpj>
+            <Cnpj>12345678000199</Cnpj>
+          </CpfCnpj>
+          <InscricaoMunicipal>123456</InscricaoMunicipal>
+        </Prestador>
+        <Tomador>
+          <IdentificacaoTomador>
+            <CpfCnpj>
+              <Cpf>98765432100</Cpf>
+            </CpfCnpj>
+          </IdentificacaoTomador>
+          <RazaoSocial>Cliente Municipal</RazaoSocial>
+          <Endereco>
+            <Endereco>Avenida das Hortensias</Endereco>
+            <Numero>100</Numero>
+            <Bairro>Centro</Bairro>
+            <CodigoMunicipio>4304606</CodigoMunicipio>
+            <Uf>RS</Uf>
+            <Cep>95680000</Cep>
+          </Endereco>
+          <Contato>
+            <Telefone>54999990000</Telefone>
+            <Email>cliente@example.com</Email>
+          </Contato>
+        </Tomador>
+      </Rps>
+    </ListaRps>
+  </LoteRps>
+</EnviarLoteRpsEnvio>

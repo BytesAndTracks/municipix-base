@@ -1,0 +1,9 @@
+__pycache__/
+acbr_clone/
+*.dcu
+*.exe
+*.dll
+*.zip
+*.rar
+*.bak
+*.tmp

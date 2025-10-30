@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecepcionarLoteRpsResposta xmlns="https://betha.com.br/schemas/nfse/recepcionar_lote">
+  <Situacao>Sucesso</Situacao>
+  <MensagemRetorno>
+    <Codigo>100</Codigo>
+    <Mensagem>Lote recebido com sucesso</Mensagem>
+    <Correcao/>
+  </MensagemRetorno>
+  <Protocolo>PRT-2025-1029-0001</Protocolo>
+  <DataRecebimento>2025-10-29T12:00:00</DataRecebimento>
+  <ListaMensagemRetorno>
+    <MensagemRetorno>
+      <Codigo>0</Codigo>
+      <Mensagem>Nenhuma pendência encontrada</Mensagem>
+    </MensagemRetorno>
+  </ListaMensagemRetorno>
+</RecepcionarLoteRpsResposta>
