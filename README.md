@@ -1,5 +1,9 @@
-# MUNICIPIX Knowledge Base 🧩
-Base de conhecimento técnica para integrações NFSe municipais brasileiras.
+# MUNICIPIX Base 🧩
+![GitHub repo size](https://img.shields.io/github/repo-size/BytesAndTracks/municipix-base)
+![GitHub last commit](https://img.shields.io/github/last-commit/BytesAndTracks/municipix-base)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+Base técnica de conhecimento para o agente **MUNICIPIX**, responsável por automatizar integrações NFSe municipais brasileiras (ABRASF, IPM, Thema, GINFES, SystemPro, BETHA e outros).
 
 ## Estrutura
 - `/docs` → Manuais e normas (ABRASF, IPM, Thema, etc.)
