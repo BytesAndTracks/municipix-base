@@ -1,0 +1,6 @@
+2025-10-29 20:05:00 | https://www.nfse.canela.rs.gov.br:8182/NfseService/NfseService?wsdl | FAIL | TLS handshake failed (schannel)
+2025-10-29 20:05:05 | https://gramado.atende.net/?pg=services&service=WNENotaFiscalEletronicaNfe&wsdl | FAIL | acesso negado (HTTP 401)
+2025-10-29 20:05:10 | https://novohamburgo.atende.net/?pg=services&service=WNENotaFiscalEletronicaNfe&wsdl | FAIL | acesso negado (HTTP 401)
+2025-10-29 20:05:18 | https://nfe.saoleopoldo.rs.gov.br/thema-nfse/services/NFSEconsulta?wsdl | SUCCESS | added
+2025-10-29 20:05:23 | https://nfe.saoleopoldo.rs.gov.br/thema-nfse/services/NFSEremessa?wsdl | SUCCESS | added
+2025-10-29 20:05:30 | https://nfe.sjp.pr.gov.br/servicos/issOnline2/ws/index.php?wsdl | SUCCESS | added

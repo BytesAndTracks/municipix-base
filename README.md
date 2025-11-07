@@ -1,9 +1,5 @@
-# MUNICIPIX Base 🧩
-![GitHub repo size](https://img.shields.io/github/repo-size/BytesAndTracks/municipix-base)
-![GitHub last commit](https://img.shields.io/github/last-commit/BytesAndTracks/municipix-base)
-![License](https://img.shields.io/badge/license-MIT-green)
-
-Base técnica de conhecimento para o agente **MUNICIPIX**, responsável por automatizar integrações NFSe municipais brasileiras (ABRASF, IPM, Thema, GINFES, SystemPro, BETHA e outros).
+# MUNICIPIX Knowledge Base 🧩
+Base de conhecimento técnica para integrações NFSe municipais brasileiras.
 
 ## Estrutura
 - `/docs` → Manuais e normas (ABRASF, IPM, Thema, etc.)
@@ -17,3 +13,10 @@ Adaptado a partir do projeto [ACBr](https://github.com/frones/ACBr).
 
 ## Uso
 Repositório utilizado pelo agente **MUNICIPIX** para análise, geração e validação de integrações NFSe.
+
+### 📦 Últimas atualizações — 2025-10-29
+- Adicionado: WSDL São Leopoldo-RS (consulta e remessa Thema)
+- Adicionado: WSDL São José dos Pinhais-PR (issOnline2)
+- Falhou: WSDL Canela-RS (erro de TLS na conexão)
+- Falhou: WSDL Gramado-RS (retorno 401 Acesso Negado)
+- Falhou: WSDL Novo Hamburgo-RS (retorno 401 Acesso Negado)
